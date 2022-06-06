@@ -1,4 +1,4 @@
-def ing2i (s1,s2):
+def ing2s (s1,s2):
   print("Ingrese dos número enteros")
   s1= input("S1= ")
   s2= input("S2= ")
