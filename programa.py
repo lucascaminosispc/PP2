@@ -3,7 +3,7 @@ import ing2s as ing2s
 import suma as s
 import fun1 as fun1
 import f2 as f2
-print("Bienvenidos al mejor programa")
+print("Bienvenidos al programa")
 a=0
 b=0
 s1=""
